@@ -18,7 +18,7 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE
-````
+```
 Name:D R Vinuthna
 Register.number:212221230017
 
