@@ -100,7 +100,8 @@ grid.add_legend()
 
 ```
 
-# OUPUT
+# OUTPUT
+
 ![output](https://github.com/VINUTHNA-2004/Ex-08-Data-Visualization-/blob/main/1.1.png)
 
 ![output](https://github.com/VINUTHNA-2004/Ex-08-Data-Visualization-/blob/main/1.2.png)
